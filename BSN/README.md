@@ -13,9 +13,11 @@ We extend the BSN (https://github.com/lesunb/bsn) and implement our AMM mechanis
 
 ### Installation
 * Requirements
-** Ubuntu 20.04 LTS
-** ROS Noetic
-** Python3 packages: numpy, sklearn, scipy and cvxopt
+	```
+	Ubuntu 20.04 LTS
+	ROS Noetic
+	Python3 packages: numpy, sklearn, scipy, and cvxopt
+	```
 
 * Unzip the files **activebsn.zip**
 * Go to *activebsn/controlbsn* and compile it:
